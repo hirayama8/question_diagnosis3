@@ -31,3 +31,6 @@
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
+
+## 機能一覧
+- https://docs.google.com/spreadsheets/d/1XFcgm31F-NP_JmUir5lAI5YXMOr9bW5j374pp0m6q6Q/edit?usp=sharing
